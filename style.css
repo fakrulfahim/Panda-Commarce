@@ -1,0 +1,63 @@
+.container{
+    margin-bottom: 100px;
+}
+.carosal-bg{
+background-color: #fceae8;
+border-radius: 12px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+    .cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to left, #ffc955 0%, #fda502 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, rgb(252, 30, 67) 0%, rgb(255, 81, 81) 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, blue 0%, rgb(35, 177, 233) 100%);
+}
+.catagori h1{
+    color: white;
+}
+.catagori img{
+    width: 150px;
+}
+.shoes img{
+    width: 250px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 5px;
+}
+.Backpack img{
+    width: 150px;
+}
+.last{
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
+#Contract-us p{
+    color: gray;
+}
